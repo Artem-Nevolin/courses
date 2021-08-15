@@ -1,4 +1,4 @@
-# вторая версия
+# вторая версия 2
 class Vector:
     def __init__(self, *args):
         self.values = list(args)

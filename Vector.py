@@ -1,4 +1,4 @@
-# коммит1
+# коммит2
 
 class Vector:
     def __init__(self, *args):
